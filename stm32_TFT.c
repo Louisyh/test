@@ -4,4 +4,10 @@
 #include<stdio.h>
 int main()
 
-{}
+{
+printf("System starting");
+printf("you are right");
+return 0;
+
+
+}
