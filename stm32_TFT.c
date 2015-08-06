@@ -7,6 +7,7 @@ int main()
 {
 printf("System starting");
 printf("you are right");
+printf("saaf");
 return 0;
 
 
